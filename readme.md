@@ -9,7 +9,7 @@ The system is deployed as an interactive web application using Streamlit, allowi
 ## Live Application
 
 Public URL:
-https://YOUR-DEPLOYED-APP-LINK
+[https://YOUR-DEPLOYED-APP-LINK](https://definably-gushy-brunilda.ngrok-free.dev/)
 
 Users can enter a website URL and receive:
 - Website classification (Legitimate or Phishing)
@@ -122,3 +122,4 @@ Chirayu Bangera
 B.Tech, Computer Science and Engineering (AI Specialization)
 
 GitHub: https://github.com/Chirayu1264
+
